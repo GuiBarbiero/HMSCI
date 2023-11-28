@@ -1,0 +1,20 @@
+**Olá veja meu linkedin e portifólio para mais projetos**
+
+**Nome Banco de dados: hmsci**
+
+**Projetado por Felipe Sanguino e Guilherme Barbiero**
+
+**Recomendamos o uso da versão 5.6 do PHP**
+
+
+**LOGIN DO ADM**
+**Lembre-se de colocar que esse é o login do adm no site**
+
+Email	: admin@mail.com
+Senha   :Password@123
+
+**Nota-se que o site não está 100% finalizado e prezamos pela qualidade de entendimento de nosso projeto**
+**10/10/23**
+
+
+
